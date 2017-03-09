@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1452968169 source:c:\users\administrador\desktop\busca\busca.c
+	<stdio.h>
+	<stdlib.h>
+	"busca.h"
+
+1452968169 c:\users\administrador\desktop\busca\busca.h
+
+1452968169 source:c:\users\administrador\desktop\busca\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1452964569 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_7_busca\busca.c
+	<stdio.h>
+	<stdlib.h>
+	"busca.h"
+
+1452964569 c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_7_busca\busca.h
+
+1453561837 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_7_busca\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1452964569 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_7_busca\busca.c
+	<stdio.h>
+	<stdlib.h>
+	"busca.h"
+
+1452964569 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_7_busca\busca.h
+
+1453561837 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_7_busca\main.c
+	<stdio.h>
+	<stdlib.h>
+
